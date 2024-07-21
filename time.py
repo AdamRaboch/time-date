@@ -1,5 +1,5 @@
 import datetime
-# comment
+# comment comment
 def print_current_date_time():
     now = datetime.datetime.now()
     day_of_week = now.strftime("%A")
